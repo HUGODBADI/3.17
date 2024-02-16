@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    text-underline-position: below;
+}
+
+.caja {
+    border: 1px solid blue;
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+}
